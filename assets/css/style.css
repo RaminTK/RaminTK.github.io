@@ -1623,7 +1623,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* portfolio and blog grid */
 
-  .project-list, .blog-posts-list { grid-template-columns: 1fr 1fr; }
+  .project-list, .blog-posts-list { grid-template-columns: 1fr; }
 
 
 
